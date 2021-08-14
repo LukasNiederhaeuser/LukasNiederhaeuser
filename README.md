@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @LukasNiederhaeuser
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning R, Python and SQL for my job and my studies 
+- 💞️ I’m looking to collaborate on data science projects related to supply-chain-analytics or production-optimization
